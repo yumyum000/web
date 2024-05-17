@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.top{
+    background-image: url(soccer-3560066_640.jpg);
+    color: aqua;
+}
+section{
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
